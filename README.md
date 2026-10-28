@@ -1,4 +1,7 @@
-APB Slave и его Testbench
+**APB Slave и его Testbench**
+
+Изменения:
+- доработаны заготовки slave и testbench до полного функционала
 
 
 Автор: Артём, М30-409Б-23
